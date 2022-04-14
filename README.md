@@ -7,7 +7,7 @@ apt update && apt upgrade -y && apt install dos2unix -y && wget https://raw.gith
 
 
 
-# Painel-v20 OI INSTALAÇÃO ZIPADA
+# Painel-v20 INSTALAÇÃO ZIPADA
 
 
 apt update && apt upgrade -y && wget https://raw.githubusercontent.com/vipbeto/ubuntu18/main/inst20 && bash inst20
