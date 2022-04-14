@@ -1,4 +1,4 @@
-# Painel-v20 INSTALAÇÃO
+# INSTALAÇÃO
 
 
 
@@ -7,14 +7,14 @@ apt update && apt upgrade -y && apt install dos2unix -y && wget https://raw.gith
 
 
 
-# Painel-v20 INSTALAÇÃO ZIPADA
+# INSTALAÇÃO ZIPADA
 
 
 apt update && apt upgrade -y && wget https://raw.githubusercontent.com/vipbeto/ubuntu18/main/inst20 && bash inst20
 
 
 
-# SINCRONIZAR PAINEL
+# SINCRONIZAR
 
 bash <(wget -qO- sshplus.xyz/scripts/utilitarios/syncpainel/inst)
 
@@ -24,7 +24,7 @@ apt update && apt upgrade -y && apt install dos2unix -y && apt install unzip && 
 
 
 
-# BACKUP-PAINEL-V20
+# BACKUP
 Script de restauração da base de dados do painel v20
 
 # INSTALAÇÃO
